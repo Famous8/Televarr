@@ -172,7 +172,7 @@ func processUrl(url string, domain string) {
 
 	c.Visit(url)
 	c.Wait()
-	checkNestedUrls()
+	//checkNestedUrls()
 	writeToFile()
 }
 
