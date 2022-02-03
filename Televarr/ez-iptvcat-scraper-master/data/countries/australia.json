@@ -1,0 +1,842 @@
+[
+    {
+        "id": "693516",
+        "channel": "ABC AU",
+        "link": "https://c.mjh.nz/101002210221/?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693517",
+        "channel": "ABC Kids",
+        "link": "https://c.mjh.nz/101002210222/?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693518",
+        "channel": "ABC Me",
+        "link": "https://c.mjh.nz/101002210224/?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265676",
+        "channel": "ABC News (720p) [Geo-blocked]",
+        "link": "https://c.mjh.nz/101002210220?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265764",
+        "channel": "ABC TV (720p)",
+        "link": "https://c.mjh.nz/3201026102E1?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265846",
+        "channel": "ABC TV (720p)",
+        "link": "https://c.mjh.nz/101002210221?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "80",
+        "status": "offline",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266041",
+        "channel": "ABC TV (720p)",
+        "link": "https://c.mjh.nz/101002510251?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "74",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266138",
+        "channel": "ABC TV (720p)",
+        "link": "https://c.mjh.nz/101002710271?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "55",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266210",
+        "channel": "ABC TV Plus (720p)",
+        "link": "https://c.mjh.nz/abc2?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266211",
+        "channel": "Aflam Mohtrama (720p) [Not 24/7]",
+        "link": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/mim21889/live\u0026checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693519",
+        "channel": "Ausbiz TV",
+        "link": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "51310",
+        "channel": "Australia Channel",
+        "link": "https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693520",
+        "channel": "Bloomberg Australia",
+        "link": "https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "823",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "137",
+        "channel": "Bloomberg TV Australia",
+        "link": "https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266214",
+        "channel": "C31 Melbourne (480p)",
+        "link": "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "1494, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266215",
+        "channel": "Channel 44 (480p)",
+        "link": "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "1494, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "138",
+        "channel": "Expo Channel",
+        "link": "http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "51313",
+        "channel": "Expo Channel",
+        "link": "https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "51314",
+        "channel": "Fox Sports News",
+        "link": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266216",
+        "channel": "JonmoBhumi TV (720p) [Not 24/7]",
+        "link": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266217",
+        "channel": "M4TV Malayalam (1080p) [Not 24/7]",
+        "link": "https://app.m4stream.live/mfourmalayalamhls/live.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "144",
+        "channel": "Sky News Extra 1",
+        "link": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "145",
+        "channel": "Sky News Extra 2",
+        "link": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "146",
+        "channel": "Sky News Extra 3",
+        "link": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266279",
+        "channel": "Sky Thoroughbred Central (360p)",
+        "link": "https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/stcsd.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693523",
+        "channel": "TVSN",
+        "link": "https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1335001",
+        "channel": "ausbiz TV (720p) [Geo-blocked]",
+        "link": "https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2062028",
+        "channel": "beIN Sports 1 HD",
+        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1730.ts?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2062030",
+        "channel": "beIN Sports 2 HD",
+        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1731.ts?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2062032",
+        "channel": "beIN Sports 3 HD",
+        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1732.ts?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693516",
+        "channel": "ABC AU",
+        "link": "https://c.mjh.nz/101002210221/?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "90",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693517",
+        "channel": "ABC Kids",
+        "link": "https://c.mjh.nz/101002210222/?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "96",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693518",
+        "channel": "ABC Me",
+        "link": "https://c.mjh.nz/101002210224/?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "93",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265676",
+        "channel": "ABC News (720p) [Geo-blocked]",
+        "link": "https://c.mjh.nz/101002210220?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "95",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265764",
+        "channel": "ABC TV (720p)",
+        "link": "https://c.mjh.nz/3201026102E1?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "3262, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2265846",
+        "channel": "ABC TV (720p)",
+        "link": "https://c.mjh.nz/101002210221?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "80",
+        "status": "offline",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266041",
+        "channel": "ABC TV (720p)",
+        "link": "https://c.mjh.nz/101002510251?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "74",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266138",
+        "channel": "ABC TV (720p)",
+        "link": "https://c.mjh.nz/101002710271?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "55",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266210",
+        "channel": "ABC TV Plus (720p)",
+        "link": "https://c.mjh.nz/abc2?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266211",
+        "channel": "Aflam Mohtrama (720p) [Not 24/7]",
+        "link": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/mim21889/live\u0026checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693519",
+        "channel": "Ausbiz TV",
+        "link": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "51310",
+        "channel": "Australia Channel",
+        "link": "https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693520",
+        "channel": "Bloomberg Australia",
+        "link": "https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "823",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "137",
+        "channel": "Bloomberg TV Australia",
+        "link": "https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266214",
+        "channel": "C31 Melbourne (480p)",
+        "link": "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "1494, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266215",
+        "channel": "Channel 44 (480p)",
+        "link": "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "1494, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "138",
+        "channel": "Expo Channel",
+        "link": "http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "51313",
+        "channel": "Expo Channel",
+        "link": "https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "51314",
+        "channel": "Fox Sports News",
+        "link": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266216",
+        "channel": "JonmoBhumi TV (720p) [Not 24/7]",
+        "link": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266217",
+        "channel": "M4TV Malayalam (1080p) [Not 24/7]",
+        "link": "https://app.m4stream.live/mfourmalayalamhls/live.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "144",
+        "channel": "Sky News Extra 1",
+        "link": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "145",
+        "channel": "Sky News Extra 2",
+        "link": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "1853, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "146",
+        "channel": "Sky News Extra 3",
+        "link": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2266279",
+        "channel": "Sky Thoroughbred Central (360p)",
+        "link": "https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/stcsd.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "94",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "693523",
+        "channel": "TVSN",
+        "link": "https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "sd",
+        "mbps": "1357",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "1335001",
+        "channel": "ausbiz TV (720p) [Geo-blocked]",
+        "link": "https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2062028",
+        "channel": "beIN Sports 1 HD",
+        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1730.ts?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2062030",
+        "channel": "beIN Sports 2 HD",
+        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1731.ts?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2062032",
+        "channel": "beIN Sports 3 HD",
+        "link": "http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/1732.ts?checkedby:iptvcat.com",
+        "country": "australia",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-01T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "2883",
+        "URI": [
+            "australia_-_-_-_-_"
+        ]
+    }
+]
