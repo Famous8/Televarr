@@ -1,5 +1,5 @@
 # Televarr
-STILL IN DEVELOPMENT!
+STILL IN DEVELOPMENT! BETA VERSION COMING SOON!
 
 ![2](https://user-images.githubusercontent.com/68285175/152268441-4a90df91-6fe5-471e-ac89-e2f8945a5097.png)
 
