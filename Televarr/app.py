@@ -23,13 +23,14 @@ def get_country_file_list():
     country_file_list = []
 
     for file in os.listdir("./data/countries"):
-        country_file_list.append(file)
+        country_file_list.append(file.split('.json')[0])
 
     return country_file_list
 
 
 def main():
-    os.chdir("./ez-iptvcat-scraper-master/")
+    if 'ez-iptvcat' not in os.getcwd():
+        os.chdir("./ez-iptvcat-scraper-master/")
 
     print("""
 	---TELEVARR---
@@ -55,7 +56,7 @@ def main():
         if country.lower() not in get_country_file_list():
             print("Invalid Country. Heres a list of valid countries: \n")
             for item in get_country_file_list():
-                print(item.split('.json')[0])
+                print(item)
 
             print("\nIf your country is not listed, add it with number 3 when you continue.")
 
@@ -63,17 +64,17 @@ def main():
 
         else:
 
-            with open('./channels.json') as file:
+            with open('../channels.json') as file:
                 channels = json.load(file)
 
-            with open('channels.json', 'w') as file:
+            with open('../channels.json', 'w') as file:
                 channels.append({'name': channel, 'country': country, 'url': None})
                 json.dump(channels, file, ensure_ascii=False, indent=4)
 
             cont()
 
     elif choice == '2':
-        with open('channels.json') as file:
+        with open('../channels.json') as file:
             channels = json.load(file)
 
         for channel in channels:
