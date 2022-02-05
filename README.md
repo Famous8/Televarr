@@ -1,7 +1,6 @@
 # Televarr
 STILL IN DEVELOPMENT! BETA VERSION COMING SOON!
-
-![2](https://user-images.githubusercontent.com/68285175/152268441-4a90df91-6fe5-471e-ac89-e2f8945a5097.png)
+![banner-long](https://user-images.githubusercontent.com/68285175/152645105-1b2abb03-4cf9-4698-acaf-862ec274a8b3.png)
 
 A Manager for IPTV Playlists
 
