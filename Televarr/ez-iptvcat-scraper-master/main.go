@@ -28,7 +28,7 @@ type Source struct {
 }
 
 const (
-	configFilePath = "configfile.yaml"
+	configFilePath = "config.yaml"
 	aHref          = "a[href]"
 )
 

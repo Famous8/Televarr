@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Cbeebies",
+        "country": "united kingdom",
+        "url": "https://list.iptvcat.com/my_list/s/040c30dae6bf7668c0eaf81d60cd6e44.m3u8"
+    },
+    {
+        "name": "BBC One",
+        "country": "united kingdom",
+        "url": "https://list.iptvcat.com/my_list/s/b141b3dc1705c4d3a893e2ecbed2b175.m3u8"
+    },
+    {
+        "name": "BBC Two",
+        "country": "united kingdom",
+        "url": "https://list.iptvcat.com/my_list/s/d463eda4efe6cf5ac2310d94ee19f3d6.m3u8"
+    },
+    {
+        "name": "BBC Four",
+        "country": "united kingdom",
+        "url": null
+    },
+    {
+        "name": "ITV",
+        "country": "united kingdom",
+        "url": "https://list.iptvcat.com/my_list/s/27a548c3330280270c4a16be21daf91c.m3u8"
+    },
+    {
+        "name": "ITV 2",
+        "country": "united kingdom",
+        "url": "https://list.iptvcat.com/my_list/s/a94821978d0168ff998e0687608a1dc4.m3u8"
+    },
+    {
+        "name": "ITV 3",
+        "country": "united kingdom",
+        "url": "https://list.iptvcat.com/my_list/s/16b512665b8a66c8feb91dcf03550b2c.m3u8"
+    },
+    {
+        "name": "ITV 4",
+        "country": "united kingdom",
+        "url": "https://list.iptvcat.com/my_list/s/408e7ce5a481e708d8fc907dbe0825d0.m3u8"
+    },
+    {
+        "name": "CITV",
+        "country": "united kingdom",
+        "url": null
+    },
+    {
+        "name": "Boomerang",
+        "country": "united kingdom",
+        "url": "https://list.iptvcat.com/my_list/s/dc4b4e5c9632178683142f41c75c3531.m3u8"
+    },
+    {
+        "name": "Channel 4",
+        "country": "united kingdom",
+        "url": "https://list.iptvcat.com/my_list/s/4e95650cb2be31c7240c52b2c62b8909.m3u8"
+    },
+    {
+        "name": "Channel 5",
+        "country": "united kingdom",
+        "url": "https://list.iptvcat.com/my_list/s/cde84e5ceaf7441f71ed9b1182c631c5.m3u8"
+    },
+    {
+        "name": "Challenge",
+        "country": "united kingdom",
+        "url": "https://list.iptvcat.com/my_list/s/3f92eb19f986b58f95514cb9581e3447.m3u8"
+    },
+    {
+        "name": "KTRK",
+        "country": "united states of america",
+        "url": "https://list.iptvcat.com/my_list/s/98893d60f824906f92626b8303f03840.m3u8"
+    },
+    {
+        "name": "KHOU",
+        "country": "united states of america",
+        "url": "https://list.iptvcat.com/my_list/s/0cca9115ce6169d3d472d7b9312511de.m3u8"
+    },
+    {
+        "name": "KPRC",
+        "country": "united states of america",
+        "url": "https://list.iptvcat.com/my_list/s/de725c35aa234c3380d14eea4c24a722.m3u8"
+    },
+    {
+        "name": "KRIV",
+        "country": "united states of america",
+        "url": "https://list.iptvcat.com/my_list/s/2127b1f6f0786efe983992141be969d8.m3u8"
+    },
+    {
+        "name": "PBS",
+        "country": "united states of america",
+        "url": "https://list.iptvcat.com/my_list/s/150c13dda75bcd19cafd7cc87d4581c7.m3u8"
+    },
+    {
+        "name": "KRIV",
+        "country": "united states of america",
+        "url": "https://list.iptvcat.com/my_list/s/2127b1f6f0786efe983992141be969d8.m3u8"
+    },
+    {
+        "name": "TLC",
+        "country": "united states of america",
+        "url": "https://list.iptvcat.com/my_list/s/0cbd9549b2f70f13607df809e22f1c18.m3u8"
+    },
+    {
+        "name": "Ary Digital",
+        "country": "pakistan",
+        "url": null
+    },
+    {
+        "name": "Ary News",
+        "country": "united kingdom",
+        "url": "https://list.iptvcat.com/my_list/s/76ec8a9e64be821499faf3bf51f815fb.m3u8"
+    },
+    {
+        "name": "Geo News",
+        "country": "united kingdom",
+        "url": null
+    },
+    {
+        "name": "Ahlulbayt",
+        "country": "united kingdom",
+        "url": "https://list.iptvcat.com/my_list/s/b5a0eeedd7057441196a2358dd8eed01.m3u8"
+    },
+    {
+        "name": "CTV",
+        "country": "canada",
+        "url": "https://list.iptvcat.com/my_list/s/eae9384227e0199c3c6f1a7feca50090.m3u8"
+    },
+    {
+        "name": "Sky Sports Main Event",
+        "country": "united kingdom",
+        "url": "https://list.iptvcat.com/my_list/s/b1cc1fa29a13ef081b4e35b621dec13d.m3u8"
+    }
+]
