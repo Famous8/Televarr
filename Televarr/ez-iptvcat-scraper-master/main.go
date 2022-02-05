@@ -11,12 +11,26 @@ import (
 	"regexp"
 	"strings"
 
-	app "iptvcat-scraper/pkg"
-
 	"github.com/gocolly/colly"
+	yaml "gopkg.in/yaml.v3"
+	app "iptvcat-scraper/pkg"
 )
 
-const aHref = "a[href]"
+// Config is the data for the input config file.
+type Config struct {
+	Sources []*Source `yaml:"sources"`
+}
+
+// Source is part of the input configuration.
+type Source struct {
+	Name string `yaml:"name"`
+	URL  string `yaml:"url"`
+}
+
+const (
+	configFilePath = "configfile.yaml"
+	aHref          = "a[href]"
+)
 
 func downloadFile(filepath string, url string) (err error) {
 	fmt.Println("downloadFile from ", url, "to ", filepath)
@@ -179,16 +193,29 @@ func processUrl(url string, domain string) {
 func main() {
 	const iptvCatDomain = "iptvcat.com"
 
-	urlList := [...]string{
-		"https://iptvcat.com/united_kingdom",
-		"https://iptvcat.com/canada",
-		"https://iptvcat.com/united_states_of_america",
-		"https://iptvcat.com/pakistan",
-		"https://iptvcat.com/undefined",
+	config, err := loadConfig(configFilePath)
+	if err != nil {
+		fmt.Println("[ERROR]", err)
+		os.Exit(1)
 	}
 
-	for _, element := range urlList {
-		processUrl(element, iptvCatDomain)
+	for _, element := range config.Sources {
+		processUrl(element.URL, iptvCatDomain)
+	}
+}
+
+func loadConfig(configFile string) (*Config, error) {
+	openFile, err := os.Open(configFile)
+	if err != nil {
+		return nil, fmt.Errorf("reading file %s: %w", configFile, err)
 	}
 
+	var config Config
+
+	err = yaml.NewDecoder(openFile).Decode(&config)
+	if err != nil {
+		return nil, fmt.Errorf("converting yaml in %s: %w", configFile, err)
+	}
+
+	return &config, nil
 }
