@@ -8,6 +8,12 @@ Televarr connects with IPTVCat to create a m3u playlist with all the Live Channe
 
 This software uses https://github.com/ericziethen/ez-iptvcat-scraper to scrape IPTVCat
 
+# What does it do?
+- Televarr scrapes IPTVcat for channel livestreams
+- It then searches for the channels you have added to your wanted list
+- It then filters them out by if they are online or not
+- Finally it creates an m3u list out of all the channels found
+
 # To use
 - Install the latest version of Python from python.org if you haven't got it already.
 - Install the latest version of Go if you haven't already.
