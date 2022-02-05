@@ -1,0 +1,16 @@
+sources:
+ -
+   name: "United Kingdon"
+   url: "https://iptvcat.com/united_kingdom"
+ -
+   name: "Canada"
+   url: "https://iptvcat.com/canada"
+ -
+   name: "USA"
+   url: "https://iptvcat.com/united_states_of_america"
+ -
+   name: "Pakistan"
+   url: "https://iptvcat.com/pakistan"
+ -
+   name: "Undefined!"
+   url: "https://iptvcat.com/undefined"
