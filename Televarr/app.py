@@ -42,7 +42,8 @@ def main():
 	3. Add Country 
 	4. Reload IPTVCat
 	5. Create Playlist
-	6. Exit
+	6. Add to Blacklist
+	7. Exit
 
 
 			""")
@@ -129,6 +130,14 @@ def main():
         cont()
 
     elif choice == '6':
+        link = input("Enter blacklisted link: ")
+        with open('../blacklist.txt', 'a') as file:
+            file.write(f"{link}\n")
+
+        print(f"Added {link}!")
+        cont()
+
+    elif choice == '7':
         print('Exiting...')
         sys.exit()
 
