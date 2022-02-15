@@ -65,18 +65,18 @@ def main():
 
         else:
 
-            with open('../channels.json') as file:
-                channels = json.load(file)
+            with open('../channels.yaml') as file:
+                yaml_data = yaml.load(file, Loader=yaml.Loader)
 
-            with open('../channels.json', 'w') as file:
-                channels.append({'name': channel, 'country': country, 'url': None})
-                json.dump(channels, file, ensure_ascii=False, indent=4)
+            with open('../channels.yaml', 'w') as file:
+                yaml_data['channels'].append({'name': channel, 'country': country, 'url': None})
+                yaml.safe_dump(yaml_data, file, indent=4)
 
             cont()
 
     elif choice == '2':
-        with open('../channels.json') as file:
-            channels = json.load(file)
+        with open('../channels.yaml') as file:
+            channels = yaml.load(file, Loader=yaml.Loader)['channels']
 
         for channel in channels:
             print(channel['name'])
@@ -131,8 +131,15 @@ def main():
 
     elif choice == '6':
         link = input("Enter blacklisted link: ")
-        with open('../blacklist.txt', 'a') as file:
-            file.write(f"{link}\n")
+        with open('../blacklist.yaml', 'r') as file:
+            yaml_data = yaml.load(file, Loader=yaml.Loader)
+
+        print(yaml_data)
+        yaml_data['blacklist'].append(link)
+
+        with open('../blacklist.yaml', 'w') as file:
+            yaml.safe_dump(yaml_data, file, indent=4)
+
 
         print(f"Added {link}!")
         cont()

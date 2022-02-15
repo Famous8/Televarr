@@ -1,18 +1,17 @@
-import json, re
+import json
+import re
+
+import yaml
+
 
 def create_playlist():
-	with open('./channels.json') as file:
-		channels = json.load(file)
+	with open('./channels.yaml') as file:
+		yaml_data = yaml.load(file, Loader=yaml.Loader)
 
-	with open('./blacklist.txt') as file:
-		file = file.readlines()
-		blacklist = []
+	with open('./blacklist.yaml') as file:
+		blacklist = yaml.load(file, Loader=yaml.Loader)['blacklist']
 
-		for item in file:
-			item = item.rstrip()
-			blacklist.append(item)
-
-	for x in channels:
+	for x in yaml_data['channels']:
 		link = None
 		path = f"./ez-iptvcat-scraper-master/data/countries/{x['country'].lower()}.json"
 
@@ -33,14 +32,14 @@ def create_playlist():
 			print(f"Channel {x['name']} Not Found.")
 			x['url'] = None
 
-	with open('./channels.json', 'w') as file:
-		json.dump(channels, file, ensure_ascii=False, indent=4)
+	with open('./channels.yaml', 'w') as file:
+		yaml.safe_dump(yaml_data, file, indent=4)
 
 	with open("./iptv.m3u", "w") as file:
 		file.truncate(0)
 		file.write('#EXTM3U')
 
-		for channel in channels:
+		for channel in yaml_data['channels']:
 			if not channel['url']:
 				pass
 
